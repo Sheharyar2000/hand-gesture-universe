@@ -3,7 +3,7 @@
 A real-time, interactive 3D solar system controllable via hand gestures. Built using **Three.js** for rendering and **MediaPipe** for computer vision/hand tracking.
 
 ## 🚀 Live Demo
-[**Click here to try it!**]((https://sheharyar2000.github.io/hand-gesture-universe/))
+[**Click here to try it!**](https://sheharyar2000.github.io/hand-gesture-universe/)
 *(Please allow camera access for hand tracking)*
 
 ## 🎮 How to Play
